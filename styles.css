@@ -1,0 +1,19 @@
+body{
+background-color: beige
+}
+#hero_section{
+height: 48vh;
+border:1px soliblack;
+display: flex;
+}
+
+.sec1{
+    border: 1% dotted black;
+    font-size: 400%;
+    width: 50%;
+}
+
+
+
+
+
